@@ -1,0 +1,22 @@
+{
+  "name": "Ma Facturation",
+  "identifier": "com.example.monAppFacturation",
+  "apps": [
+    {
+      "name": "Mon App Facturation",
+      "bundleIdentifier": "com.example.monAppFacturation",
+      "developerName": "Aya",
+      "subtitle": "Gestion de caisse et stock",
+      "localizedDescription": "Application complète pour gérer vos ventes, stocks et clients.",
+      "tintColor": "#1E1E2C",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "date": "2026-10-26",
+          "downloadURL": "https://hadjabarr4-lang.github.io/mon_app_facturation_ios-/app.ipa",
+          "size": 12930000
+        }
+      ]
+    }
+  ]
+}
