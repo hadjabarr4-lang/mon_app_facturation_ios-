@@ -8,6 +8,7 @@
       "developerName": "Aya",
       "subtitle": "Gestion de caisse et stock",
       "localizedDescription": "Application complète pour gérer vos ventes, stocks et clients.",
+      "iconURL": "https://cdn-icons-png.flaticon.com/512/3135/3135679.png",
       "tintColor": "#1E1E2C",
       "versions": [
         {
